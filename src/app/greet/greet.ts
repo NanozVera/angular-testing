@@ -1,3 +1,3 @@
-export funtion greet(name){
-	return 'Welcome '+name;
+export function greet(name){
+	return 'Welcome ' + name;
 }
